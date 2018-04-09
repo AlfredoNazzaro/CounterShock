@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CounterShock</string>
+    <string name="main_menu_item1">Visualizza percorso</string>
+    <string name="main_menu_item2">Registrati</string>
+    <string name="main_menu_item3">Login</string>
+    <string name="title_menu">Benvenuto</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login_button">Accedi</string>
+    <string name="reset_button">Reset</string>
+    <string name="login_text">Benvenuto, inserisci le credenziali per accedere!</string>
+
+    <string name="table_id">Id percorso:  </string>
+    <string name="table_partenza">Partenza:  </string>
+    <string name="table_destinazione">Destinazione:  </string>
+    <string name="table_numfossi">Numero fossi:  </string>
+    <string name="table_km">km:  </string>
+    <string name="reg_button">Registra</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="insertRoad">Nuovo percorso</string>
+    <string name="logout">logout</string>
+</resources>
+
+
