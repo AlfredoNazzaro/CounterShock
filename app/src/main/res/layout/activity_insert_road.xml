@@ -123,7 +123,6 @@
         android:id="@+id/buttonFossi"
         android:layout_alignTop="@+id/buttonSave"
         android:layout_alignParentStart="true"
-        android:layout_marginLeft="50dp"
-        android:onClick="rilevaFossi"/>
+        android:layout_marginLeft="50dp"/>
 
 </RelativeLayout>
